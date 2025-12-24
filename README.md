@@ -7,35 +7,60 @@
 ### 🚀 About Me
 
 - 🔧 **Current Role:** Junior Database Administrator at PT PLN Icon+
+- 📊 **Current Project:** Vendor Invoicing Portal (VIP) - 7+ months database management
 - 💼 **Experience:** 2+ years in application development & database administration
-- 🎯 **Focus:** Database performance optimization, monitoring, and SQL Server administration
+- 🎯 **Specialization:** SQL Server, Always On Availability Groups (AAG), Performance Tuning
 - 📍 **Location:** Bekasi, Indonesia | Open to relocation (Malaysia/Singapore)
-- 🎓 **Education:** Computer Science Graduate | Certified Junior DBA
+- 🎓 **Certified:** Junior Database Administrator (LSP Universitas Widyatama)
+
+### 💡 What I'm Currently Working On
+
+**Vendor Invoicing Portal (VIP) - Database Operations:**
+- 🔹 Production database monitoring & performance optimization
+- 🔹 CRUD query deployment & optimization
+- 🔹 User access management & database security
+- 🔹 Disaster recovery: Rebuilt dev & staging servers after critical failure
+- 🔹 Network setup: TCP/IP configuration for secure remote database access
+- 🔹 **In Progress:** SQL Server migration to Always On Availability Groups (AAG)
+- 🔹 **Learning:** SSIS (SQL Server Integration Services) for ETL processes
 
 ### 🛠️ Technical Skills
 
-**Databases:**
-- SQL Server (SSMS) - Primary expertise
+**Database Administration:**
+- SQL Server (SSMS) - Always On Availability Groups (AAG)
+- Database monitoring, backup & disaster recovery
+- User & security management, TCP/IP configuration
+- Performance tuning & query optimization
 - PostgreSQL, MySQL
-- Database Design & Normalization
-- Performance Tuning & Query Optimization
 
-**Development:**
-- OutSystems (Low-code platform)
+**Development & ETL:**
+- SSIS (SQL Server Integration Services) - Learning
+- OutSystems (Low-code platform) - 2 years
 - SQL Scripting & Automation
 - Python (Database automation)
 - C#, VB.NET, Java
 
 **Tools & Platforms:**
-- DBeaver, pgAdmin, SSMS
-- Power BI, Jira
+- SSMS, DBeaver, pgAdmin, Azure Data Studio
+- Power BI, Jira (Agile)
 - Katalon, Selenium, Postman
 
-### 📊 Featured Projects
+### 📊 Key Projects
 
-- 🏦 **MONALISA** - Customer complaint monitoring system (BCA)
-- 📈 **SPRAVA Phase 2** - Application monitoring & HR data integration
-- 💧 **PDAM Centralization** - Payment system & automated notifications
+**At PT PLN Icon+ (Current):**
+- 🏢 **Vendor Invoicing Portal (VIP)** - Complete database lifecycle management
+
+**At PT Bank Central Asia (2023-2025):**
+- 🏦 **MONALISA** - Customer complaint monitoring system
+- 📈 **SPRAVA Phase 2** - Application monitoring & HR data integration  
+- 💧 **PDAM Centralization** - Payment system with automated notifications
+
+### 🎯 Professional Highlights
+
+- ✅ Successfully recovered from critical server failure with zero data loss
+- ✅ Implementing enterprise-level Always On Availability Groups (AAG)
+- ✅ Configured secure remote database access for distributed teams
+- ✅ 2+ years developing business applications on OutSystems platform
 
 ### 📫 How to Reach Me
 
@@ -43,7 +68,8 @@
 - 💼 LinkedIn: [linkedin.com/in/rika-afriyani-b86457191](https://linkedin.com/in/rika-afriyani-b86457191)
 - 📱 Phone: +62 838 1986 1990
 
- 
- **Currently open to:** Database Administrator roles | Remote opportunities | Freelance projects on Upwork
+---
+
+⚡ **Open to opportunities:** Database Administrator roles | Remote/Freelance on Upwork | Malaysia/Singapore relocation
 
 💡 **Check out my database projects and SQL optimization work below!** 👇
